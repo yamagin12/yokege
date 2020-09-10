@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 84cf7a3fd813c4a828fb056c92b82239
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bluesprite: {fileID: 21300000, guid: c9503c27cd52740048a1d90829ed79bc, type: 3}
+  - redsprite: {fileID: 21300000, guid: 577fc834be4ae464b8562d9a34276dbb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
